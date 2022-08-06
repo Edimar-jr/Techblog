@@ -1,4 +1,3 @@
 # Techblog
 Projeto feito com Html e Css
-
-![imagem2](https://user-images.githubusercontent.com/107490860/183243593-5e9c4a4a-93b0-4004-91a0-ad3603ea882b.jpg)
+![imagem1](https://user-images.githubusercontent.com/107490860/183243610-31df6c78-a1a7-490d-ba96-ecca1eb384ba.jpg)
