@@ -115,4 +115,175 @@ Projeto feito com Html e Css
 		
 	</body>
 </html>
+	
+## codigo Css
+	
+/*LIMPANDO AS FORMATAÇOES PADROES*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+
+	font-size: 1em;
+	font-family: "trebuchet MS", helvetica, sans-serif;
+	background: #e6e6e6;
+
+}
+
+/*layout cabeçalho*/
+
+#area-cabecalho {
+
+	background: #f7b600;
+	padding: 15px;
+	text-align: center;
+		
+}
+
+#area-logo, #area-menu {
+
+	padding: 10px;
+
+}
+
+#area-principal {
+		
+	width: 920px;
+	margin: 0px auto;
+	padding: 15px;
+
+}
+
+
+#area-postagens{
+
+	width: 660px ;
+	float: left;
+
+}
+
+#area-lateral{
+
+	width: 240px;
+	float: right;
+
+}
+
+.postagens {
+
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+
+}
+
+.conteudo-lateral{
+
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.postagem-lateral {
+
+	font-size: 0.8em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+	
+}
+
+
+#rodape {
+
+	background: #CCC ;
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	;
+
+}
+
+
+/*formataçao menu*/
+
+a {
+
+	text-decoration: none;
+}
+
+a:link,  a:visited {
+
+	color: #F7b600;
+	
+	
+	
+
+}
+
+a:hover{
+
+	text-decoration: underline;
+	
+
+
+
+
+}
+
+
+#area-cabecalho a:link, #area-cabecalho a:visited {
+
+	color: #FFF;
+	padding: 8px 12px;
+	
+
+}
+
+#area-cabecalho a:hover{
+	color: #f7b600;
+	background: #fff;
+	text-decoration: none;
+
+
+}
+
+h1 {
+
+	color: #4e4e4e;
+	font-size: 2.5em;
+
+}
+
+h2 {
+	color: #f7b600;
+
+}
+
+h3 {
+	color: #565656;
+	background: #f7b600;
+	padding: 5px;
+
+}
+
+.blog {
+
+	color: white;
+}
+
+.data-postagem {
+
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+
+}
+
+	
+	
 
